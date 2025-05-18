@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RAGBaseApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
