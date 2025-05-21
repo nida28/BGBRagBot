@@ -68,7 +68,7 @@ dotnet run
 ## 📚 Future Ideas
 
 - Vector DB integration (like Qdrant or Pinecone)
-- Host as an API or Gradio demo
+- Add a web crawler for past cases and legal literature
 - Expand to other legal codes or languages
 - Add metadata filters (e.g., search only tenancy laws)
 
